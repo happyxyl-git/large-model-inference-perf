@@ -3,6 +3,12 @@
 横坐标：并发数（concurrency），纵坐标：Prefill Throughput Per User (tokens/sec/user)（avg 值）
 
 ```mermaid
+---
+config:
+  themeVariables:
+    xyChart:
+      plotColorPalette: "#00008B"
+---
 xychart-beta
     title "Prefill Throughput Per User (tokens/sec/user) vs Concurrency"
     x-axis "concurrency" [1, 5, 10]

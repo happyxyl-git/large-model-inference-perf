@@ -3,6 +3,12 @@
 横坐标：并发数（concurrency），纵坐标：Request Latency (ms)（avg 值）
 
 ```mermaid
+---
+config:
+  themeVariables:
+    xyChart:
+      plotColorPalette: "#00008B"
+---
 xychart-beta
     title "Request Latency (ms) vs Concurrency"
     x-axis "concurrency" [1, 5, 10]
