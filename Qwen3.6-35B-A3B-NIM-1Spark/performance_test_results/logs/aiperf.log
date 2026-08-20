@@ -1,0 +1,18 @@
+2026-08-20 10:46:25.920 - aiperf.cli_runner._single_run - INFO - Starting AIPerf System
+2026-08-20 10:46:25.924 - aiperf.config.resolution.resolvers - INFO - [OK] Tokenizer /data/models/Qwen3.6-35B-A3B detected
+2026-08-20 10:46:25.924 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer validated | 0.0s
+2026-08-20 10:46:25.926 - aiperf.config.resolution.resolvers - INFO - Prefetching 1 tokenizer into HF cache...
+2026-08-20 10:46:28.889 - aiperf.config.resolution.resolvers - INFO -   Cached /data/models/Qwen3.6-35B-A3B (2.96s)
+2026-08-20 10:46:28.909 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer cached • 3.0s
+2026-08-20 10:47:54.954 - aiperf.cli_runner._single_run - INFO - Starting AIPerf System
+2026-08-20 10:47:54.957 - aiperf.config.resolution.resolvers - INFO - [OK] Tokenizer /data/models/Qwen3.6-35B-A3B detected
+2026-08-20 10:47:54.957 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer validated | 0.0s
+2026-08-20 10:47:54.958 - aiperf.config.resolution.resolvers - INFO - Prefetching 1 tokenizer into HF cache...
+2026-08-20 10:47:55.961 - aiperf.config.resolution.resolvers - INFO -   Cached /data/models/Qwen3.6-35B-A3B (1.00s)
+2026-08-20 10:47:55.988 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer cached • 1.0s
+2026-08-20 10:54:41.698 - aiperf.cli_runner._single_run - INFO - Starting AIPerf System
+2026-08-20 10:54:41.701 - aiperf.config.resolution.resolvers - INFO - [OK] Tokenizer /data/models/Qwen3.6-35B-A3B detected
+2026-08-20 10:54:41.702 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer validated | 0.0s
+2026-08-20 10:54:41.702 - aiperf.config.resolution.resolvers - INFO - Prefetching 1 tokenizer into HF cache...
+2026-08-20 10:54:42.686 - aiperf.config.resolution.resolvers - INFO -   Cached /data/models/Qwen3.6-35B-A3B (0.98s)
+2026-08-20 10:54:42.714 - aiperf.config.resolution.resolvers - INFO - 1 tokenizer cached • 1.0s
