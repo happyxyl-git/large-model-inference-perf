@@ -190,7 +190,7 @@ curl -X POST http://127.0.0.1:8000/v1/chat/completions \
     "model": "Qwen/Qwen3.6-35B-A3B",
     "messages": [
       {"role": "user", "content": [
-        {"type": "text", "text": "你是谁？"}
+        {"type": "text", "text": "你好"}
       ]}
     ],
     "max_tokens": 512,
